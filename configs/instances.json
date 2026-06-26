@@ -1,0 +1,26 @@
+[
+    {
+        "name": "SERVER01",
+        "os": "Ubuntu",
+        "cpu": "2vCPU",
+        "ram": "4GB"
+    },
+    {
+        "name": "SERVER02",
+        "os": "Ubuntu",
+        "cpu": "2vCPU",
+        "ram": "4GB"
+    },
+    {
+        "name": "SERVER03",
+        "os": "Ubuntu",
+        "cpu": "2vCPU",
+        "ram": "4GB"
+    },
+    {
+        "name": "SERVER04",
+        "os": "ubuntu",
+        "cpu": "2vCPU",
+        "ram": "4GB"
+    }
+]
